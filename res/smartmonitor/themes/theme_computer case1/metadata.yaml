@@ -1,0 +1,8 @@
+name: theme_computer case1
+source_vendor_theme: theme_computer case1
+source_ui: vendor/themefor3.5/theme_computer case1/computer case1.ui
+compiled_at: '2026-04-14T16:13:41.036003+00:00'
+compiler: experimental_ui_to_imgdat
+size: 516024
+sha256: 0d4e1e60379077cde71dc321a976cbe42dd63c08316feebcc4fb1649dda1a95c
+source_file: res/themes/theme_computer case1.dat

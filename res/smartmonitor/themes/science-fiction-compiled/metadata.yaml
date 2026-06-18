@@ -1,0 +1,8 @@
+name: science-fiction-compiled
+source_vendor_theme: theme_science fiction
+source_ui: vendor/themefor3.5/theme_science fiction/science fiction.ui
+compiled_at: '2026-04-13T22:53:37.789659+00:00'
+compiler: experimental_ui_to_imgdat
+size: 2127133
+sha256: ebb7c8adc9e2deedde661b83d2207bc848cf1a512257f9eedaf678abcc700845
+source_file: res/themes/science-fiction-compiled.dat

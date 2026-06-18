@@ -1,0 +1,8 @@
+name: theme_simple
+source_vendor_theme: theme_simple
+source_ui: vendor/themefor3.5/theme_simple/simple.ui
+compiled_at: '2026-04-14T16:13:43.014658+00:00'
+compiler: experimental_ui_to_imgdat
+size: 3706648
+sha256: 4151eb2db28a95d889dfb60c56c50731b4264b193de09c0fc0d215d4d20956b0
+source_file: res/themes/theme_simple.dat

@@ -1,0 +1,8 @@
+name: theme_science fiction4
+source_vendor_theme: theme_science fiction4
+source_ui: vendor/themefor3.5/theme_science fiction4/science fiction4.ui
+compiled_at: '2026-04-14T16:13:41.947193+00:00'
+compiler: experimental_ui_to_imgdat
+size: 1893040
+sha256: 26e5884a8787accae54106e0fb6919cc512bd7be44c19b11ce48b1bf5b3d1b7b
+source_file: res/themes/theme_science fiction4.dat

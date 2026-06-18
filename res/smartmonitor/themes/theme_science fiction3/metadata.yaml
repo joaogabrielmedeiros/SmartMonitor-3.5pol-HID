@@ -1,0 +1,8 @@
+name: theme_science fiction3
+source_vendor_theme: theme_science fiction3
+source_ui: vendor/themefor3.5/theme_science fiction3/science fiction3.ui
+compiled_at: '2026-04-14T16:13:41.769595+00:00'
+compiler: experimental_ui_to_imgdat
+size: 3880238
+sha256: ae3659b4a18f01e5fa562fec188b053f6bd38c6a6f3a1552c01d176b6db72470
+source_file: res/themes/theme_science fiction3.dat

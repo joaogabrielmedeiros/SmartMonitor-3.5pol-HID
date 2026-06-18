@@ -1,0 +1,8 @@
+name: rog03-compiled
+source_vendor_theme: theme_ROG03
+source_ui: vendor/themefor3.5/theme_ROG03/ROG03.ui
+compiled_at: '2026-04-14T15:12:17.857514+00:00'
+compiler: experimental_ui_to_imgdat
+size: 323198
+sha256: b3437264db9c930d72fd94f97b29392df568fe49c4a1533f77887dd8644f1e49
+source_file: res/themes/rog03-compiled.dat

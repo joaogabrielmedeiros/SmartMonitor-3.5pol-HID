@@ -1,0 +1,30 @@
+config:
+  COM_PORT: AUTO
+  THEME: 3.5inchTheme2
+  HW_SENSORS: AUTO
+  ETH: ''
+  WLO: ''
+  CPU_FAN: AUTO
+  PING: 8.8.8.8
+  WEATHER_API_KEY: ''
+  WEATHER_LATITUDE: 45.75
+  WEATHER_LONGITUDE: 4.85
+  WEATHER_UNITS: metric
+  WEATHER_LANGUAGE: en
+display:
+  REVISION: A_HID
+  BRIGHTNESS: 20
+  DISPLAY_REVERSE: false
+  RESET_ON_STARTUP: true
+  SMARTMONITOR_HID_RUNTIME: true
+  SMARTMONITOR_HID_THEME_FILE: 
+    /home/jgm/playground/gemini/turing-smart-screen-python-main/res/themes/science-fiction-compiled.dat
+  SMARTMONITOR_HID_UPLOAD_ON_START: false
+  SMARTMONITOR_HID_SEND_TIME: true
+  SMARTMONITOR_HID_CMD: 2
+  SMARTMONITOR_HID_UPDATE_INTERVAL: 2
+  SMARTMONITOR_HID_TIME_INTERVAL: 1
+  SMARTMONITOR_HID_LAST_UPLOADED_THEME: 
+    /home/jgm/playground/gemini/turing-smart-screen-python-main/res/themes/science-fiction-compiled.dat
+  SMARTMONITOR_HID_LAST_UPLOAD_ATTEMPTED_THEME: 
+    /home/jgm/playground/gemini/turing-smart-screen-python-main/res/themes/science-fiction-compiled.dat

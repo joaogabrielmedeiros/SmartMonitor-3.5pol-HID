@@ -1,0 +1,8 @@
+name: theme_science fiction7
+source_vendor_theme: theme_science fiction7
+source_ui: vendor/themefor3.5/theme_science fiction7/science fiction7.ui
+compiled_at: '2026-04-14T16:13:42.473927+00:00'
+compiler: experimental_ui_to_imgdat
+size: 1329944
+sha256: b0df0979ebe856a1f72c4412bd37b58ff5b9eca71ff1add781c74f3aef8f6aa3
+source_file: res/themes/theme_science fiction7.dat

@@ -1,0 +1,7 @@
+name: rog03-vendor
+source_file: res/themes/rog03-vendor.dat
+source_vendor_theme: theme_ROG03
+source_ui: vendor/themefor3.5/theme_ROG03/ROG03.ui
+compiler: vendor_imgdat
+size: 339037
+sha256: 7acb84eee0560612f065daeed138c9ad1e6394d5d5ee712c997d384ad250b5e5

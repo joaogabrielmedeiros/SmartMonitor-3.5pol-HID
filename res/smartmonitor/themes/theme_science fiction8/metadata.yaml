@@ -1,0 +1,8 @@
+name: theme_science fiction8
+source_vendor_theme: theme_science fiction8
+source_ui: vendor/themefor3.5/theme_science fiction8/science fiction8.ui
+compiled_at: '2026-04-14T16:13:42.645295+00:00'
+compiler: experimental_ui_to_imgdat
+size: 1887068
+sha256: 473036d720daf85127b8abf311ec30d1c746131105692661a254caf89dcbacaf
+source_file: res/themes/theme_science fiction8.dat
